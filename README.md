@@ -5,10 +5,10 @@ Domina el Lenguaje de Programación Dart para Emprender tu Viaje con Flutter
 
 | No. | Tema Socialización | Grupo de Trabajo |
 | ----------- | ----------- |
-| 1 | Getters y setters|  |
-| 2 | Aserciones	|  |
-| 3 | Clases Abstractas|  |
-| 4 | Extends and implements|  |
-| 5 | Futures	|  |
-| 6 | Streams	|  |
-| 7 | Async - Await	|  |
+| 1 | Getters y setters| Por definir |
+| 2 | Aserciones	| Por definir |
+| 3 | Clases Abstractas| Por definir |
+| 4 | Extends and implements| Por definir |
+| 5 | Futures	| Por definir |
+| 6 | Streams	| Por definir |
+| 7 | Async - Await	| Por definir |
